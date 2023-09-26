@@ -1,0 +1,43 @@
+*{
+    font-family: helvetica;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body{
+    background-color: #fff;
+    zoom: 0.80;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem;
+    color: #fff;
+    background-color: #222;
+}
+
+.container{
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.imgcontainer{
+    margin-bottom: 4rem;
+    padding-bottom: 4rem;
+    border-bottom: 1px solid #444;
+}
+
+.imgcontainer img{
+    display: block;
+    margin: 2rem auto 1rem;
+    width: 1000px;
+    height: 1000px;
+}
+
+.imgcontainer h2{
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
